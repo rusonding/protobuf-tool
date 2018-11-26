@@ -1,4 +1,4 @@
-package com.yiguo.dt.rpc.message;
+package com.dt.rpc.message;
 option cc_generic_services = true;
 option java_outer_classname = "RpcMessage";
 
